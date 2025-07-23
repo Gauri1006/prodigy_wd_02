@@ -20,3 +20,4 @@ This is a simple and elegant Stopwatch web application built as part of the **Pr
 ## 📸 Screenshot
 
 <img width="2879" height="1629" alt="image" src="https://github.com/user-attachments/assets/761daf90-218f-492e-8347-7bf8f696979a" />
+<img width="2879" height="1623" alt="Screenshot 2025-07-23 225940" src="https://github.com/user-attachments/assets/5b8adaa6-4e12-4c8b-bcfb-14d2325619a8" />
