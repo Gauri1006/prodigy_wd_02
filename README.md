@@ -18,3 +18,5 @@ This is a simple and elegant Stopwatch web application built as part of the **Pr
 - JavaScript (ES6)
 
 ## 📸 Screenshot
+
+<img width="2879" height="1629" alt="image" src="https://github.com/user-attachments/assets/761daf90-218f-492e-8347-7bf8f696979a" />
